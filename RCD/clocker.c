@@ -1,3 +1,6 @@
+// VERSION 1.1:
+// --Added Spread Mode
+
 /* Jumper/Breakout info 
 
 Open	Short	Pin#	Variable_name
